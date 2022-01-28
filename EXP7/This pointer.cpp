@@ -16,7 +16,7 @@ class student {
 		}
 };
 int main() {
-	student s1("indhu", 1246, 'A');
+	student s1("Jeevitha", 1233, 'A');
 	s1.display();
 	return 0;
 }
